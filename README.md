@@ -8,7 +8,7 @@
 
 - It took me 4-5hr to make this project.Please find link of the project below:
 
-[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--9-blue)](https://project10-28722.netlify.app/)
+[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--10-blue)](https://project10-28722.netlify.app/)
 
 ---
 
