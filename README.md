@@ -14,7 +14,7 @@
 
 ## Screenshot
 
-![App Screenshot](./images/project10-image.png)
+![App Screenshot](./images/project10-img.png)
 
 ---
 
