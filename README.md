@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-4--5hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project10-28722.netlify.app/)
 
-# Project-10: Interior Design Landing Page
+# Interior Design Landing Page
 
 - This project is a Interior Design landing page.This website is designed using pure HTML and CSS.
 
