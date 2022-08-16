@@ -144,7 +144,7 @@ nav {
     display: flex;
     flex-direction: row;
     position: absolute;
-    bottom: 15%;
+    top: 65%;
     right: 30%;
 }
 
@@ -224,6 +224,10 @@ nav {
         font-size: 10px;
     }
 
+    body {
+        background-size: cover;
+    }
+
 }
 
 
@@ -247,7 +251,8 @@ nav {
         display: block;
     }
 
-    .main {
+    .content-box {
+        height: 40vh;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
