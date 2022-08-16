@@ -4,7 +4,7 @@
 
 # Interior Design Landing Page
 
-- This project is a Interior Design landing page.This website is designed using pure HTML and CSS.
+- This project is a Interior Design landing page.This website is designed using pure HTML and CSS. Also, I have made this site responsive using media query by taking two breakpoints.
 
 - It took me 4-5hr to make this project.Please find link of the project below:
 
@@ -12,9 +12,20 @@
 
 ---
 
+# Breakpoints
+
+- I have created **Two** Breakpoints to make it responsive.
+
+  - First at **1024px** for small screen laptops.
+  - Second at **714px** for Tablets and mobiles.
+
 ## Screenshot
 
-![App Screenshot](./images/project10-img.png)
+- Desktop version screenshot.
+  ![App Screenshot](./images/project10-img.png)
+
+- Mobile version screenshot.
+  ![Mobile version](./)
 
 ---
 
