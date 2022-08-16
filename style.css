@@ -227,11 +227,15 @@ nav {
 }
 
 
-
-/* BREAKPOINT FOR TABLETS */
+/* BREAKPOINT FOR TABLETS AND MOBILE */
 @media (max-width:714px) {
     html {
         font-size: 8px;
+    }
+
+    body {
+        background-color: #2a5978;
+        background-size: cover;
     }
 
     .part2 {
