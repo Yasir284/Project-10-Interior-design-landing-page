@@ -22,9 +22,11 @@
 ## Screenshot
 
 - Desktop version screenshot.
+
   ![App Screenshot](./images/project10-img.png)
 
 - Mobile version screenshot.
+
   ![Mobile version](./)
 
 ---
