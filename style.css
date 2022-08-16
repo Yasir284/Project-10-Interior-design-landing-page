@@ -170,12 +170,9 @@ nav {
     align-items: center;
 }
 
-
 .puzzle-img {
     width: 100%;
 }
-
-
 
 .line-circle1 {
     display: flex;
@@ -252,7 +249,7 @@ nav {
     }
 
     .content-box {
-        height: 40vh;
+        height: 35vh;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;

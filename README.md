@@ -27,7 +27,7 @@
 
 - Mobile version screenshot.
 
-  ![Mobile version](./)
+  ![Mobile version](./images/project10-mobilevs.png)
 
 ---
 
